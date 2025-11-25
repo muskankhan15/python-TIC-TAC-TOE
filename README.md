@@ -1,4 +1,4 @@
-#Tic-Tac-Toe Game (Pygame)
+# Tic-Tac-Toe Game (Pygame)
 
 A simple graphical Tic-Tac-Toe (X-O) game built using Python and Pygame.
 Players take turns clicking on the grid to place X and O, and the board updates in real time. This project is great for beginners learning event handling, rendering, and game loops in Pygame.
